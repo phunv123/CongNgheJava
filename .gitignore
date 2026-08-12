@@ -3,3 +3,9 @@
 
 lab01-java-console/target/*
 !lab01-java-console/target/lab01-java-console-1.0-SNAPSHOT.jar
+
+lab02-java-maven-jar/target/*
+!lab02-java-maven-jar/target/lab02-java-maven-jar-1.0-SNAPSHOT.jar
+
+lab03-java-swing/target/*
+!lab03-java-swing/target/lab03-java-swing-1.0-SNAPSHOT.jar
