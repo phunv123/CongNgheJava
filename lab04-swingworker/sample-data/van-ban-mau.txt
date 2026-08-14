@@ -1,0 +1,6 @@
+Java Swing dùng để xây dựng ứng dụng desktop.
+Event Dispatch Thread chịu trách nhiệm cập nhật giao diện Swing.
+SwingWorker giúp xử lý tác vụ lâu trong luồng nền.
+Không nên đọc file lớn trực tiếp trong ActionListener.
+Phương thức done chạy trên Event Dispatch Thread.
+Lab 4 là bước chuẩn bị trước khi tích hợp JDBC ở Lab 5.

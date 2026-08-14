@@ -9,3 +9,6 @@ lab02-java-maven-jar/target/*
 
 lab03-java-swing/target/*
 !lab03-java-swing/target/lab03-java-swing-1.0-SNAPSHOT.jar
+
+lab04-swingworker/target/*
+!lab04-swingworker/target/lab04-swingworker-1.0-SNAPSHOT.jar
